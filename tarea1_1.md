@@ -3,11 +3,11 @@
 ##CREACIÓN DEL REPOSITORIO (1 PUNTO)
 
     Crear una cuenta en GitHub si aún no la tienes.
-        - https://github.com/Angel-L-G
+        - <https://github.com/Angel-L-G>
     Crear un repositorio en vuestro GitHub llamado DPL_A_nombre ( DPL_A_Alejandro )
-        - git init; git remote add origin https://github.com/Angel-L-G/DPL_A_Angel
+        - git init; git remote add origin <https://github.com/Angel-L-G/DPL_A_Angel>
     Clonar el repositorio en local.
-        - git clone https://github.com/Angel-L-G/DPL_A_Angel
+        - git clone <https://github.com/Angel-L-G/DPL_A_Angel>
 
 ##CREACIÓN DEL ARCHIVO README (1 PUNTO)
 
@@ -19,11 +19,13 @@
 
     Añadir al tarea1_1.md los  comandos utilizados hasta ahora y hacer un commit inicial con el mensaje commit inicial.
         - git add tarea1_1.md; git commit -m "commit inicial"
+        ![](/img1/1.png)
 
 ##PUSH INICIAL (1 PUNTO)
 
     Subir los cambios al repositorio remoto
         - git push origin main
+        ![](/img1/2.png)
 
 ##IGNORAR ARCHIVOS (1 PUNTO)
 
@@ -52,7 +54,7 @@
 ##CONFIGURACIÓN Y USO SOCIAL DE  GITHUB (1 PUNTO)
 
     Poner una foto en vuestro perfil de GitHub.
-        -
+        - 
     Poner el doble factor de autentificación en vuestra cuenta de GitHub.
         -
     Seguir los repositorios  de vuestros compañeros.
@@ -63,6 +65,12 @@
 ##CREAR UNA TABLA (1 PUNTO)
 
     Crear una tabla de este estilo en el fichero tarea1_1.md con la información de varios de tus compañeros de clase:
-    +--------+
-    | Nombre |
-    +--------+
+    +--------+--------+
+    | Nombre | Github |
+    +--------+--------+
+    |
+    +--------+--------+
+    |
+    +--------+--------+
+    |
+    +--------+--------+
