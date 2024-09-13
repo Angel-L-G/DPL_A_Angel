@@ -55,6 +55,7 @@ Listar las ramas con merge y las ramas sin merge.
 
 Arreglar el conflicto anterior y hacer un commit. Explicar cómo lo has arreglado, incluyendo capturas de pantalla.
 - Resolver el conflicto en 1.txt.
+    - Hize un `git push -f` para forzar los cambios;
 - `git add 1.txt`
 - `git commit -m "Resolver conflicto en 1.txt"`
 ![](T2/img2/7.png)
