@@ -2,8 +2,10 @@
 
 Crear una rama v0.2.  
 Posiciona tu carpeta de trabajo en esta rama.
+
 - `git checkout -b v0.2`
-![](T2/img2/1.png)
+  
+![](img2/1.png)
 
 # AÑADIR EL FICHERO 2.txt (1 PUNTO)
 
@@ -11,13 +13,15 @@ Añadir un fichero 2.txt en la rama v0.2.
 - `touch 2.txt`
 - `git add 2.txt`
 - `git commit -m "Añadir archivo 2.txt"`
-![](T2/img2/2.png)
+  
+![](img2/2.png)
 
 # CREAR UNA RAMA REMOTA v0.2 (1 PUNTO)
 
 Subir los cambios al repositorio remoto.
 - `git push origin v0.2`
-![](T2/img2/3.png)
+  
+![](img2/3.png)
 
 # MERGE DIRECTO (1 PUNTO)
 
@@ -25,7 +29,8 @@ Posicionarse en la rama master.
 Hacer un merge de la rama v0.2 en la rama master.
 - `git checkout main`
 - `git merge v0.2`
-![](T2/img2/4.png)
+  
+![](img2/4.png)
 
 # MERGE CON CONFLICTO (1 PUNTO)
 
@@ -42,14 +47,16 @@ Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2.
 - `git commit -m "Añadir Adios en 1.txt"`
 - `git checkout main`
 - `git merge v0.2`
-![](T2/img2/5.png)
+  
+![](img2/5.png)
 
 # LISTADO DE RAMAS (1 PUNTO)
 
 Listar las ramas con merge y las ramas sin merge.
 - `git branch --merged`
 - `git branch --no-merged`
-![](T2/img2/6.png)
+  
+![](img2/6.png)
 
 # ARREGLAR CONFLICTO (1 PUNTO)
 
@@ -58,7 +65,8 @@ Arreglar el conflicto anterior y hacer un commit. Explicar cómo lo has arreglad
     - Hize un `git push -f` para forzar los cambios;
 - `git add 1.txt`
 - `git commit -m "Resolver conflicto en 1.txt"`
-![](T2/img2/7.png)
+  
+![](img2/7.png)
 
 # BORRAR RAMA (1 PUNTO)
 
@@ -66,13 +74,15 @@ Crear un tag v0.2.
 Borrar la rama v0.2.
 - `git tag v0.2`
 - `git branch -d v0.2`
-![](T2/img2/8.png)
+  
+![](img2/8.png)
 
 # LISTADO DE CAMBIOS (1 PUNTO)
 
 Listar los distintos commits con sus ramas y sus tags.
 - `git log --oneline --decorate --graph --all`
-![](T2/img2/9.png)
+  
+![](img2/9.png)
 
 # CREAR UNA ORGANIZACIÓN (1 PUNTO)
 
