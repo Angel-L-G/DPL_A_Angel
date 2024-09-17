@@ -77,11 +77,13 @@ Listar los distintos commits con sus ramas y sus tags.
 # CREAR UNA ORGANIZACIÓN (1 PUNTO)
 
 Crea una organización llamada orgdpl-tunombredeusuariodegithub (ejemplo orgdpl-amarzar).
+![](T2/img2/10.png)
 - 
 
 # CREAR EQUIPOS
 
 Crear dos equipos en la organización orgdpl-tunombredeusuariodegithub, uno llamado administradores con más permisos y otro colaboradores con menos permisos.  
+![](T2/img2/11.png)
 Meter a github.com/amarzar y a 2 de vuestros compañeros de clase en el equipo de administradores.  
 Meter a github.com/amarzar y a 2 de vuestros compañeros de clase en el equipo de colaboradores.
 - 
