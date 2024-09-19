@@ -9,8 +9,10 @@
 
 ## Tercer Paso
   Buscamos la parte que pone "$cfg['Servers'][$i]['password'] y le asignamos el valor que queramos
+![](/informes/T4-(seguridadXampp/img/3.png)
 
 ## Cuarto Paso
   Un par de lineas mas arriba econtramemos una linea que pone "$cfg['Servers'][$i]['auth_type'] y le asignamos el 'http'
+![](/informes/T4-(seguridadXampp/img/4.png)
 
 Con eso conseguiremos que phpmyadmin pregunte las credenciales al entrar
