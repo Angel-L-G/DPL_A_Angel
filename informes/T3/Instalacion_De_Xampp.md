@@ -11,4 +11,4 @@
 
 # Paso 4
     Abrimos el Xampp y comprobamos que los servidores se inician
-![](informes/T3/img/1.png)
+![](/informes/T3/img/1.png)
