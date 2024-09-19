@@ -22,10 +22,12 @@ Con eso conseguiremos que phpmyadmin pregunte las credenciales al entrar
 # Crear nuevos usuarios
 ## Primer Paso
   Abrir el interfaz de phpmyadmin y seleccionar la opcion de "Cuentas de usuario"
+  
 ![](/informes/T4-(seguridadXampp)/img/5.png)
 
 ## Segundo Paso
   Bajar un poco y encontrareis la opcion de crear nuevo usuario
+  
 ![](/informes/T4-(seguridadXampp)/img/6.png)
 
 ## Tercer Paso
