@@ -17,3 +17,21 @@
 ![](/informes/T4-(seguridadXampp)/img/3.png)
 
 Con eso conseguiremos que phpmyadmin pregunte las credenciales al entrar
+![](/informes/T4-(seguridadXampp)/img/4.png)
+
+# Crear nuevos usuarios
+## Primer Paso
+  Abrir el interfaz de phpmyadmin y seleccionar la opcion de "Cuentas de usuario"
+![](/informes/T4-(seguridadXampp)/img/5.png)
+
+## Segundo Paso
+  Bajar un poco y encontrareis la opcion de crear nuevo usuario
+![](/informes/T4-(seguridadXampp)/img/6.png)
+
+## Tercer Paso
+  Rellena los datos necesario para el usuario,en caso de no poner contraseña no la tendra
+![](/informes/T4-(seguridadXampp)/img/7.png)
+
+## Cuarto Paso
+  Por ultimo dale los permisos que sea necesarios para que pueda acceder a lo que necesite, y pulse continuar abajo del todo.
+![](/informes/T4-(seguridadXampp)/img/8.png)
