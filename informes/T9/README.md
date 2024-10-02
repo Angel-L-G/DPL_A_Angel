@@ -30,8 +30,7 @@ Una vez creada la base de datos, puedes proceder a crear tablas.
    - **id** (tipo: `INT`, longitud: `11`, con `AUTO_INCREMENT` y `PRIMARY KEY`).
    - **nombre** (tipo: `VARCHAR`, longitud: `100`).
    - **email** (tipo: `VARCHAR`, longitud: `100`, con un índice único).
-   - **fecha_registro** (tipo: `TIMESTAMP`, valor por defecto `CURRENT_TIMESTAMP`).
-   - **activo** (tipo: `TINYINT`, longitud: `1`).
+   - **created** (tipo: `DATETIME`).
 
 4. **Guardar la tabla**:
    - Haz clic en `Guardar` para crear la tabla.
@@ -45,9 +44,9 @@ Una vez creada la base de datos y las tablas, puedes conectar PHP con MySQL. Exi
 <?php
 // Datos de conexión
 $servername = "localhost";
-$username = "root";
-$password = "";
-$database = "mi_base_de_datos";
+$username = "NombreRoot";
+$password = "PasswordRoot";
+$database = "NombreBD";
 
 // Crear la conexión
 $conn = new mysqli($servername, $username, $password, $database);
