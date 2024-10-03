@@ -27,7 +27,7 @@ Para insertar un registro en la tabla `users`, utilizamos una consulta SQL de ti
 ?>
 ```
 
-# 2. Modificar Registros (Update)
+### 2. Modificar Registros (Update)
 
 Para modificar un registro en la tabla `users`, usamos la consulta `UPDATE`. Aquí se muestra cómo modificar el email de un usuario.
 
@@ -51,7 +51,7 @@ Para modificar un registro en la tabla `users`, usamos la consulta `UPDATE`. Aqu
 ?>
 ```
 
-# 4. Borrar Registros (Delete)
+### 3. Borrar Registros (Delete)
 
 Para borrar un registro en la tabla `users`, usamos la consulta `DELETE FROM`. Aquí se muestra cómo eliminar un registro por su nombre.
 
