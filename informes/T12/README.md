@@ -32,7 +32,7 @@ git add index.htm
 git commit -m "Se crea el esqueleto básico del index.htm"
 ```
 
-## Añadir el contenido al head entre <head> y </head>:
+## Añadir el contenido al head entre `<head>` y `</head>`:
 
 ```html
 <head>
@@ -47,7 +47,7 @@ git commit -m "Se crea el esqueleto básico del index.htm"
 git commit -am "Se añade la cabecera del index.htm"
 ```
 
-# Añadir el contenido al body entre <body> y </body>:
+# Añadir el contenido al body entre `<body>` y `</body>`:
 
 ```html
 <body>
@@ -63,7 +63,7 @@ git commit -am "Se añade la cabecera del index.htm"
 git commit -am "Se añade la estructura básica del body"
 ```
 
-# Añadir el contenido de section entre <section> y </section>:
+# Añadir el contenido de section entre `<section>` y `</section>`:
 
 ```html
 <section>
