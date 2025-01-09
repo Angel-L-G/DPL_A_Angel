@@ -1,7 +1,3 @@
-Aquí tienes el contenido actualizado para realizar la práctica, instalando PHP 8.3 en lugar de 7.4, y adaptando los pasos:
-
----
-
 # Actualización e Instalación de Apache, MariaDB y PHP 8.3
 
 Este README.md documenta los pasos seguidos para instalar Apache, MariaDB y PHP 8.3 en un servidor Ubuntu, incluyendo capturas de pantalla y explicaciones necesarias.
@@ -151,14 +147,4 @@ Actualiza la página `info.php` y verifica que la API ha cambiado a `FPM/FastCGI
 
 **Captura de pantalla:** Incluye el cambio en la salida de `phpinfo()`.
 
----
-
-## Entrega
-
-1. Asegúrate de que el archivo `README.md` está correctamente formateado.
-2. Sube el archivo y las capturas a la carpeta `\prácticas\ud2` de tu repositorio GitHub.
-3. Proporciona la URL del repositorio y el último commit en la plataforma Campus.
-
---- 
-
-Este contenido está listo para ser usado en GitHub con Markdown y adaptado para la entrega en tu asignatura.
+![captura](informes/T17/captura.jpg)
