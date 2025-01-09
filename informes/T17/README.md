@@ -147,4 +147,4 @@ Actualiza la página `info.php` y verifica que la API ha cambiado a `FPM/FastCGI
 
 **Captura de pantalla:** Incluye el cambio en la salida de `phpinfo()`.
 
-![captura](informes/T17/captura.jpg)
+![captura](./captura.jpg)
